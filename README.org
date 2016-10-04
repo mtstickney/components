@@ -1,0 +1,13 @@
+* Components - System Components for Common Lisp
+
+  Components is a library that implements Stuart Sierra's [[https://github.com/stuartsierra/component][Component]]
+  system for managing the lifecycle of system components, but for
+  Common Lisp instead of Clojure.
+
+* Status
+  This library is currently considered in "alpha" state. The API may
+  change without notice, and stability is not guaranteed (but it would
+  be pretty hard to mess this up very badly).
+
+* API
+  TBD.
